@@ -1,5 +1,5 @@
-import React from 'react'
-import "./home.css"
+
+
 import Hero from '../components/hero'
 import About from '../components/about'
 import Service from '../components/service'
